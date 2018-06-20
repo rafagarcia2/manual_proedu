@@ -1,22 +1,16 @@
----
-description: Tutorial - Submissão de documentos.
----
-
 # Submissão
 
 O **fluxo de submissão** é o processo pelo qual um CDD é depositado, percorrendo todas as etapas necessárias desde o início da submissão até que o item esteja disponível para acesso. Aqui vamos abordar cada uma destas etapas para o correto manuseio e arquivamento do material didático.
 
 Após o acesso ao repositório, através do [http://proedu.rnp.br/](http://proedu.rnp.br/) o usuário deverá logar no sistema para ter permissão de submissão. As opções de entrar ou cadastrar-se no sistema são apresentadas na parte superior direita do site.
 
-COLOCAR FIGURA
+![](.gitbook/assets/captura-de-tela-de-2018-06-20-15-02-05%20%281%29.png)
 
 Após o login, o menu superior apresentará as opções disponíveis para o usuário, como navegar entre as comunidades do repositório, filtrar pesquisas e as opções da conta, é nesta parte que devemos focar por hora.
 
-COLOCAR FIGURA
-
 No menu "Minha Conta" o usuário deverá clicar em "Submissões" para ter acesso a área de submissões feitas ou em andamento. Em "Submissões incompletas" estará disponível a opção para iniciar uma nova submissão, vamos clicar nela.
 
-COLOCAR FIGURA
+![](.gitbook/assets/captura-de-tela-de-2018-06-20-15-02-30%20%281%29.png)
 
 {% hint style="warning" %}
 Não achou a opção para fazer uma submissão? Verifique junto a administração do repositório se o seu usuário possui permissão para esta ação.
@@ -30,11 +24,11 @@ COLOCAR FIGURA
 
 Caso ainda não tenha feito, será questionado na primeira tela de submissão qual comunidade e coleção o depósito será arquivado, é necessário escolher de acordo com o tema da submissão, pois esta escolha não poderá ser alterada mais tarde. Tudo certo? Clique em próximo.
 
-colocar FIGURA
+![Tela de escolha da cole&#xE7;&#xE3;o &#xE0; qual o CDD ser&#xE1; depositado](.gitbook/assets/captura-de-tela-de-2018-06-20-15-05-40.png)
 
 Ao chegarmos neste ponto somos apresentados a trilha de submissão, aqui devemos popular o formulário com informações exatas sobre o CDD a ser depositado, provendo informações relevantes que ajudarão futuramente no processo de pesquisa e descobrimento do arquivo dentro do repositório. Sigamos.
 
-colocar figura
+![](.gitbook/assets/captura-de-tela-de-2018-06-20-15-31-14.png)
 
 {% hint style="info" %}
 Começou a submissão, mas precisa dar uma pausa no meio do processo? Não se preocupe, basta clicar em "Salvar e sair" no final do formulário e continuar mais tarde ;\)
@@ -83,7 +77,7 @@ Nesta etapa será feito o depósito do arquivo \(ou arquivos\) que constituem a 
 
 #### Avaliação
 
-A avaliação consiste em verificar se o item catalogado está compatível com a coleção. Nesse caso, há apenas duas opções: aceitar ou rejeitar. Ao ser aceito, o Item passa para a próxima etapa do fluxo; se não houver a etapa de revisão de metadados, o item estará disponível para acesso. caso haja a rejeição, é necessário justificar. Então, um e-mail automático com a justificativa é enviado ao autor.
+A avaliação consiste em verificar se o CDD submetido está compatível com a coleção. Nesse caso, há apenas duas opções: aceitar ou rejeitar. Ao ser aceito, o Item passa para a próxima etapa do fluxo; se não houver a etapa de revisão de metadados, o item estará disponível para acesso. caso haja a rejeição, é necessário justificar. Então, um e-mail automático com a justificativa é enviado ao autor.
 
 #### Revisão de metadados
 
@@ -92,4 +86,8 @@ A revisão de metadados não tem a capacidade de rejeitar um item, faz apenas aj
 
 
 
+
+![](.gitbook/assets/captura-de-tela-de-2018-06-20-15-31-14%20%281%29.png)
+
+![](.gitbook/assets/captura-de-tela-de-2018-06-20-15-03-22.png)
 
