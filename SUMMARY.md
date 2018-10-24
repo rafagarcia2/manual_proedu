@@ -7,5 +7,4 @@
 * [Estatísticas](estatisticas.md)
 * [Sistema de recomendação](sistema-de-recomendacao.md)
 * [Créditos](creditos.md)
-* [Denúncia](denuncia.md)
 

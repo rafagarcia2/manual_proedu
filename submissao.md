@@ -39,7 +39,7 @@ Começou a submissão, mas precisa dar uma pausa no meio do processo? Não se pr
 Os primeiros passos recebem o nome de "Descrever", cada passo em si refere-se a um aspecto da submissão e abordaremos cada um deles. O primeiro pede os dados gerais do arquivo:
 
 | Título:   | Título em Português |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | Autores: |  Inserir último e primeiro nome, nos campos respectivos, no caso de mais de um autor principal, clicar em "ADD" e continuar preenchendo o campo normalmente. |
 | Palavras-chave:  | Conjunto de palavras-chave relacionadas ao CDD, inserir cada uma separadamente, clicando em "ADD" |
 | Granularidade:  | Especifica o nível de agregação do CDD \(Ex. Curso, disciplina, Unidade, Objetos\) |
@@ -51,7 +51,7 @@ Em "Papel do contribuidor", caso existam contribuidores para a submissão, dever
 Neste ponto é informado a classificação da submissão perante as áreas do conhecimento associadas ao assunto do CDD. Para preencher alguns destes tópicos é apresentado o link "Categorias do assunto" onde o usuário poderá pesquisar as classificações dentre as oferecidas no sistema.
 
 | Área do Conhecimento | Explicita as áreas do conhecimento, segundo a CAPES, relacionados ao objeto \[quando aplicável\] |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Eixo Tecnológico | Explicita os eixos tecnológicos relacionados \(Cursos Técnicos e Cursos Superiores de Tecnologia\) \[Quando aplicável\] |
 | Curso | Cursos relacionados |
 | Disciplina | Nome\(s\) das disciplinas relacionadas \(em especial Cadernos Temáticos\) |
@@ -68,7 +68,7 @@ Os selos ainda passarão por validação após a finalização da submissão.
 Nesta etapa será feito o depósito do arquivo \(ou arquivos\) que constituem a submissão. 
 
 | Arquivo |  |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Data do arquivo | Data da produção do objeto. O dia e/ou mês podem ser deixados em branco caso não sejam aplicáveis. |
 | Características para uma plataforma específica | Usar esta categoria para as diversas instâncias do material |
 | Tipo de Plataforma/Finalidade | Tipo de recurso ou plataforma a que se destina o conteúdo. |
